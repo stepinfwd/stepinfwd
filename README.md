@@ -1,5 +1,5 @@
-![MasterHead](https://cdn.dribbble.com/users/4107928/screenshots/16332316/media/719efcff15976cc5df758885c931429d.jpg?compress=1&resize=1600x1200&vertical=top)
-
+<!-- ![MasterHead](https://cdn.dribbble.com/users/4107928/screenshots/16332316/media/719efcff15976cc5df758885c931429d.jpg?compress=1&resize=1600x1200&vertical=top)
+ -->
 <h1 align="center">Hi 👋, I'm Kiran ashok</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
