@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kiran ashok</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Tooljet**
-
 - 📫 How to reach me **stepinfwd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -14,4 +12,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stepinfwd&show_icons=true&locale=en" alt="stepinfwd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stepinfwd&" alt="stepinfwd" /></p>
