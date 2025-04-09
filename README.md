@@ -28,14 +28,8 @@
 ### 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kiranashok/" target="_blank">
+  <a href="https://www.linkedin.com/in/kiran-ashok/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://stepinfwd.dev" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel" />
-  </a>
-  <a href="mailto:kiranashokdev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
